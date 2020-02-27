@@ -3,7 +3,7 @@ templateKey: blog-post
 title: ブログの書き方 
 date: 2020-02-24
 featuredpost: false
-featuredimage: /img/kid_job_boy_programmer.png
+featuredimage: /img/document_syorui_pen.png
 description: 前ホームページ長の岩下です。後のHP長のために、ブログの書き方を説明しようと思います。
 ---
 
